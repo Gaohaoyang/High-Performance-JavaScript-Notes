@@ -1,0 +1,14 @@
+{
+    "plugins": [
+        "disqus",
+        "github"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "highperformancejavascriptnotes"
+        },
+        "github": {
+            "url": "https://github.com/Gaohaoyang/High-Performance-JavaScript-Notes"
+        }
+    }
+}
