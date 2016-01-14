@@ -1,7 +1,8 @@
 {
     "plugins": [
         "disqus",
-        "github"
+        "github",
+        "ga"
     ],
     "pluginsConfig": {
         "disqus": {
@@ -9,6 +10,9 @@
         },
         "github": {
             "url": "https://github.com/Gaohaoyang/High-Performance-JavaScript-Notes"
+        },
+        "ga":{
+            "token": "UA-72449510-3"
         }
     }
 }
